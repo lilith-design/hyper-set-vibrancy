@@ -2,6 +2,10 @@
 
 A simple plugin for enabling/customising [Vibrancy](https://www.electronjs.org/docs/api/browser-window#winsetvibrancytype-macos) in [Hyper](https://hyper.is/) for macOS.
 
+## Installation
+
+Add `hyper-set-vibrancy` to `plugins` in `~/.hyper.js` or install with the Hyper CLI using `hyper i hyper-set-vibrancy`.
+
 ## Configuration
 
 Set vibrancy type in `~/.hyper.js` using
