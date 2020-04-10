@@ -2,6 +2,7 @@
   "name": "hyper-set-vibrancy",
   "version": "1.0.0",
   "description": "A simple plugin to enable/set vibrancy in hyper on macOS",
+  "homepage": "https://github.com/tuckels/hyper-set-vibrancy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +15,6 @@
     "vibrancy"
   ],
   "author": "Lily Tucker",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "dependencies": {}
 }
