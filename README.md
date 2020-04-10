@@ -4,17 +4,17 @@ A simple plugin for enabling/customising [Vibrancy](https://www.electronjs.org/d
 
 ## Configuration
 
-Set vibrancy type in ~/.hyper.js using 
+Set vibrancy type in `~/.hyper.js` using
 
 ```js
 config: {
-    // REST OF CONFIG
+    // EXISTING CONFIG
     setVibrancy: "dark",
 }
 ```
 
-Supported options are dark | light | medium-light | ultra-dark.
+Supported options are `dark` | `light` | `medium-light` | `ultra-dark`.
 
-Further customisation is achievable by setting the backgroundColor option using rgba (eg `rgba(255,255,255,0.5)`). Effects will not be visible if your backgroundColor does not have an alpha less than one. 
+The window can be tinted by setting the `backgroundColor` config option using rgba (eg `rgba(255,255,255,0.5)`). Vibrancy effects will not be visible if your backgroundColor has an alpha of 1.
 
 **Changes will take effect when opening a new window.**
