@@ -15,6 +15,6 @@ config: {
 
 Supported options are `dark` | `light` | `medium-light` | `ultra-dark`.
 
-The window can be tinted by setting the `backgroundColor` config option using rgba (eg `rgba(255,255,255,0.5)`). Vibrancy effects will not be visible if your backgroundColor has an alpha of 1.
+The window can be tinted by setting the `backgroundColor` config option using rgba (eg `rgba(0,0,0,0.5)`). Vibrancy effects will not be visible if your backgroundColor has an alpha of 1.
 
 **Changes will take effect when opening a new window.**
