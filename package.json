@@ -1,7 +1,7 @@
 {
   "name": "hyper-set-vibrancy",
   "version": "1.0.0",
-  "description": "A simple plugin to enable/set vibrancy in hyper on macOS",
+  "description": "A simple plugin to set vibrancy options in Hyper on macOS",
   "homepage": "https://github.com/tuckels/hyper-set-vibrancy",
   "main": "index.js",
   "scripts": {
