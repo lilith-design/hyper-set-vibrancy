@@ -10,6 +10,7 @@ Set vibrancy type in ~/.hyper.js using
     setVibrancy: "dark",
 } `
 
-Supported options are dark | light | medium-light | ultra-dark. 
+Supported options are dark | light | medium-light | ultra-dark.
+Effects will not be visible if your backgroundColor does not have an alpha less than one. 
 
 **Changes will take effect when opening a new window.**
