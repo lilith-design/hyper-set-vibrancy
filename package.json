@@ -1,7 +1,7 @@
 {
   "name": "hyper-set-vibrancy",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple plugin to enable/set vibrancy in hyper on macOS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "blur",
     "vibrancy"
   ],
-  "author": "",
+  "author": "Lily Tucker",
   "license": "ISC",
   "dependencies": {}
 }
