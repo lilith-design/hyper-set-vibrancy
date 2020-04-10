@@ -1,6 +1,6 @@
 # hyper-set-vibrancy
 
-A simple plugin for enabling/customising [Vibrancy](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/translucency/) in [Hyper](https://hyper.is/) for macOS.
+A simple plugin for enabling/customising [Vibrancy](https://www.electronjs.org/docs/api/browser-window#winsetvibrancytype-macos) in [Hyper](https://hyper.is/) for macOS.
 
 ## Configuration
 
