@@ -5,13 +5,13 @@ A simple plugin for enabling/customising [Vibrancy](https://developer.apple.com/
 ## Configuration
 
 Set vibrancy type in ~/.hyper.js using 
+
 `
   config: {
     //...//
     setVibrancy: "dark",
     //...//
   }
-  
-`
+ `
 
 Supported options are dark | light | medium-light | ultra-dark. *Changes will take effect when opening a new window.*
