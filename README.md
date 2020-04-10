@@ -6,9 +6,13 @@ A simple plugin for enabling/customising [Vibrancy](https://www.electronjs.org/d
 
 Set vibrancy type in ~/.hyper.js using 
 
-`config: {
+```
+config: {
+    //REST OF CONFIG
+    
     setVibrancy: "dark",
-} `
+}
+```
 
 Supported options are dark | light | medium-light | ultra-dark.
 
